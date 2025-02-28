@@ -1,0 +1,66 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+    color: white;
+    margin: 0;
+    text-align: center;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+}
+
+.nav-link {
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    text-decoration: none;
+    color: black;
+    background-color: rgb(248, 39, 39);
+    font-size: 20px;
+    border: 1px solid rgb(239, 255, 14);
+    border-radius: 10px;
+    padding: 5px;
+    margin: 50px;
+}
+
+h1 {
+
+}
+
+p {
+    font-size: 20px;
+}
+
+.info {
+   
+}
+
+article {
+   
+}
+
+.article-but {
+    
+}
+
+footer {
+   
+}
+
+footer a {
+    
+}
+
+footer p {
+}
+
+.logo{ 
+    display: flex;
+    justify-content: center;
+}
+
+.logo1{ 
+    width: 300px;
+}
